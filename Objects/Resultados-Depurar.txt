@@ -1,0 +1,14 @@
+﻿'Objects.exe' (Win32): 'C:\Users\ALUMNOS\source\repos\Objects\Debug\Objects.exe' cargado. Símbolos cargados.
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0x2854 terminó con código 0 (0x0).
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'Objects.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+El subproceso 0x2ed0 terminó con código 2 (0x2).
+El subproceso 0x1f60 terminó con código 2 (0x2).
+El programa '[10244] Objects.exe' terminó con código 2 (0x2).

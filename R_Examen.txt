@@ -1,0 +1,14 @@
+﻿'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Users\ALUMNOS\source\repos\Examen2_porfavorNoLoBorren\Debug\Examen2_porfavorNoLoBorren.exe' cargado. Símbolos cargados.
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0x32a8 terminó con código 0 (0x0).
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'Examen2_porfavorNoLoBorren.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+El subproceso 0x1668 terminó con código 0 (0x0).
+El subproceso 0x19e4 terminó con código 0 (0x0).
+El programa '[10892] Examen2_porfavorNoLoBorren.exe' terminó con código 0 (0x0).
